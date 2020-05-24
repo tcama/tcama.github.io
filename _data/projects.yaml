@@ -1,7 +1,7 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
+- title: Radio Wyrd
+  url: http://tcama.github.io/RadioWyrd
+  image: http://tcama.github.io/images/Project_RadioWyrd.png
+  completed: True
 
 - title: Moon Jekyll Theme
   url: http://taylantatli.me/Moon
