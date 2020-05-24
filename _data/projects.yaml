@@ -3,9 +3,9 @@
   image: http://tcama.github.io/images/Project_RadioWyrd.png
   completed: True
 
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Odor Processing Brain Networks
+  url: http://tcama.github.io/OlfactoryRSN
+  image: http://tcama.github.io/images/Project_olfactoryRSN.tif
   completed: true
 
 - title: Ramme Jekyll Theme
