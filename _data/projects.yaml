@@ -1,7 +1,7 @@
 - title: Radio Wyrd
   url: http://tcama.github.io/RadioWyrd
   image: http://tcama.github.io/images/Project_RadioWyrd.png
-  completed: True
+  completed: true
 
 - title: Odor Processing Brain Networks
   url: http://tcama.github.io/OlfactoryRSN
@@ -21,7 +21,7 @@
 - title: Block Icon Theme
   url: https://github.com/TaylanTatli/Block-Icon-Theme
   image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
+  completed: true
 
 - title: Start Page
   url: http://taylantatli.me/StartPage/
