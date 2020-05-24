@@ -2,5 +2,5 @@
 layout: post-list
 title: RadioWyrd
 description: "Internet variety show: guest segments on science"
-permalink: /RadioWryd.html
+permalink: /RadioWryd.hmtl
 ---
