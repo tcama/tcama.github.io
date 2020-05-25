@@ -1,5 +1,6 @@
 ---
 layout: page
+image: images/Project_RadioWyrd.png
 ---
 # RadioWyrd
 
