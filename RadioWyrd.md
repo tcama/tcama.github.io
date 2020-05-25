@@ -7,4 +7,4 @@ RadioWyrd is an internet variety show that centers on music and interesting conv
 
 Episode 1 - Brain Science
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=hF4NMR5U0rE" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/hF4NMR5U0rE?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
