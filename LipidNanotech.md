@@ -1,6 +1,6 @@
 ---
 layout: page
-image: images\LNT_microarray.jpg
+image: images\LNT_microarray2.jpg
 ---
 # Lipid Nanotechnologies
 
@@ -12,18 +12,14 @@ As Cheif Data Officer at Lipid-Nanotech, I focus on developing automated method 
 
 Lipid-Nanotech entered into an option agreement to license nanointaglio patents from the University, submitted an SBIR application to the NIH, and pitched our innovation to follow-on investors. The company’s progress stalled during license negotiations with the University, but I learned an immense amount from the experience, and it ignited my passion for translational research.
 
-You can read a press release about our $150K funding [here][1] and watch our original pitch video below.
+You can [read a press release about our $150K funding here][1] and watch our original pitch video below.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/HE7rgtaJ_AY?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 [1]: https://news.fsu.edu/news/science-technology/2012/04/15/biological-science-majors-emerge-top-winners-innolevation-challenge/
 
-```
-Relevant pages for future ref
-
-http://www.lipidnanotech.net/
-
-https://www.youtube.com/embed/HE7rgtaJ_AY
-
-https://news.fsu.edu/news/science-technology/2012/04/15/biological-science-majors-emerge-top-winners-innolevation-challenge/
-```
+[comment]: <> (http://www.lipidnanotech.net/)
+[comment]: <> (https://www.youtube.com/embed/HE7rgtaJ_AY
+)
+[comment]: <> (https://news.fsu.edu/news/science-technology/2012/04/15/biological-science-majors-emerge-top-winners-innolevation-challenge/
+)
