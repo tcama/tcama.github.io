@@ -1,6 +1,6 @@
 ---
 layout: page
-image: images\LNT_microarray2.jpg
+image: images/LNT_microarray2.jpg
 ---
 # Lipid Nanotechnologies
 
@@ -21,5 +21,4 @@ You can [read a press release about our $150K funding here][1] and watch our ori
 [comment]: <> (http://www.lipidnanotech.net/)
 [comment]: <> (https://www.youtube.com/embed/HE7rgtaJ_AY
 )
-[comment]: <> (https://news.fsu.edu/news/science-technology/2012/04/15/biological-science-majors-emerge-top-winners-innolevation-challenge/
-)
+[comment]: <> (https://news.fsu.edu/news/science-technology/2012/04/15/biological-science-majors-emerge-top-winners-innolevation-challenge/)
