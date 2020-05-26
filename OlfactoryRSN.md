@@ -1,6 +1,6 @@
 ---
 layout: page
-image: images/Project_olfactoryRSN.png
+image: images/Project_olfactoryRSN_facet.png
 ---
 # Olfactory Brain Network
 
