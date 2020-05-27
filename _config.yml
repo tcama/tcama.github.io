@@ -2,7 +2,8 @@
 title: Thomas Campbell Arnold
 description: Scientist, Engineer, Optimist
 url: https://tcama.github.io/
-logo: Banana_transparent.png                                       # Site logo
+# Left Block Images
+logo: full-banana-bite-tranparent.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
