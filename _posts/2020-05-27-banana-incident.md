@@ -9,13 +9,13 @@ tags:
 
 In December of 2019, John Bernabei and I were sitting in a bustling Baltimore cafe. We were grabbing a quick breakfast before an all-day epilepsy research conference. I covertly purchased a banana with my bagel and sat down across from my colleague. I looked John dead in his eyes and without peeling the banana I sank my teeth into its middle. The response was instantaneous.
 
-A spasm overtook John. He flailed like hooked fished. John's fist shot up to his mouth. He bit his hand to regain composure, narrowly avoiding a scene. He wasn't whole again for 20 minutes. Some say he hasn't been the same ever sense.
+A spasm overtook John. He flailed like a hook fish. His fist shot up to his mouth and he bit his hand to regain composure, narrowly avoiding a scene. He wasn't whole again for 20 minutes. Some say he hasn't been the same ever sense.
 
 People have strong prior conceptions about how the world works. When you challenge those priors, you get a proportionally strong reaction. John gave me the idea of eating bananas with their peels, but even he was discombobulated by the sight.
 
-Over the last several months, I've done this dozens of times. It became my new party trick. Lure an unsuspecting, innocent citizen of the world into a casual conversation. Pull out a banana, bite and watch. The reaction is always swift and forceful. Faces contort, bodies squirm, gags are gagged, and then a frenzy of excited questions. Do you always do that? What does the peel taste like? Is this a nutritional thing? People seems stimulated by the event and sometimes even happier.
+Over the last several months, I've done this dozens of times. It became my new party trick. Lure an unsuspecting, innocent citizen of the world into a casual conversation. Pull out a banana, bite and watch. The reaction is always swift and forceful. Faces contort, bodies squirm, gags are gagged, and then a frenzy of excited questions. Do you always do that? What does the peel taste like? Is this a nutritional thing? People seems stimulated by the event and sometimes even happier afterwards.
 
-Only two people have had different reactions. My wife was the 4th person I pulled this stunt on. She was entirely unphased. Just "a day in the life" I guess. One friend skipped the visceral reaction instead saying "interesting" and launching into questions about the nutritional benefits. By and large, people have very powerful, vigorous reaction.
+Only two people have had different reactions. My wife was the 4th person I pulled this stunt on. She was entirely unphased. Just "a day in the life" I guess. One friend skipped the visceral reaction instead saying "interesting" and launching into questions about the nutritional benefits. But by and large, people have very powerful, vigorous reaction.
 
 In February, I pull this stunt at a ski resort near Philly. Same as always, just trying to get a rouse out of some friends. They weren't the only ones watching though. Someone recorded it, put it on instagram, and it went viral. I thought I would expose maybe a hundred people to my shenanigans over my lifetime, now almost half a million people have seen my shtick.
 
